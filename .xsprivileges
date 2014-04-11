@@ -1,0 +1,2 @@
+{ "privileges" :
+       [ { "name" : "Basic", "description" : "Basic usage privilege" } ]}
