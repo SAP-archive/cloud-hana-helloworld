@@ -43,8 +43,8 @@ The project hello is listed in the Project Explorer
 
 - change "model_access.hdbrole" file content from
 	
-	    role <PACKAGE_NAME>::model_access {
-	    	application privilege: <PACKAGE_NAME>::Basic;
+	    role {{PACKAGE_NAME}}::model_access {
+	    	application privilege: {{PACKAGE_NAME}}::Basic;
 	    }
     e.g. to
 
