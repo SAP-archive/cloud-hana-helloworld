@@ -31,7 +31,7 @@ The final workspace location is "C:\\HANAXSws\\cloud-hana-getting-started-hello"
 - Inside this folder create a subfolder with the name of your Trial SAP HANA Instance, e.g. "C:\\HANAXSws\\cloud-hana-getting-started-hello\\p1940523533trial\\dev"
 
 ### 5. Get the example code
-- Download [https://github.com/SAP/cloud-hana-getting-started-hello.git](https://github.com/SAP/cloud-hana-getting-started-hello.git). 
+- Download [https://github.com/SAP/cloud-hana-getting-started-hello/archive/master.zip](https://github.com/SAP/cloud-hana-getting-started-hello/archive/master.zip). 
 - Create a new folder "hello",e.g "C:\\HANAXSws\\cloud-hana-getting-started-hello\\p1940523533trial\\dev\\hello"
 - The zip file contains a subfolder "cloud-hana-getting-started-hello-master". Extract its content to the "hello" folder you just created.
  
