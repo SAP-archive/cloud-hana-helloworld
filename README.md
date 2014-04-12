@@ -1,8 +1,8 @@
-cloud-xs-getting-started-hello
+cloud-hana-getting-started-hello
 ==============================
-
  #cloud-hana-native-sample
-# Importing the "Getting Started Hello" source code to a Trial SAP HANA Instance with Eclipse
+
+## Importing the "Getting Started Hello" source code to a Trial SAP HANA Instance with Eclipse
 
 This is based on the Step by Step tutorial at  "[help.hana.ondemand.com -> Creating an SAP HANA XS Application](https://help.hana.ondemand.com/help/frameset.htm?3762b229a4074fc59ac6a9ee7404f8c9.html)".
 
