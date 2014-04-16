@@ -48,7 +48,9 @@ The final workspace location is `C:\hanaxsws\cloud-hana-helloworld`.
 - In the `SAP HANA Development` perspective go to `Project Explorer` tab, right click and choose `Import->Import->General->Existing Projects into Workspace`.
 Select root directory by browsing for the folder, e.g. `C:\hanaxsws\cloud-hana-helloworld\p1940xxtrial\myhanaxs\helloworld`.
 - Click `Finish` button.
-The project `hello` is listed in the Project Explorer.
+The project is listed in the Project Explorer.
+
+- Right click on the project name and rename the project name from {{PROJECT_NAME}} to `helloworld`. 
 
 - change `model_access.hdbrole` file content from
 
