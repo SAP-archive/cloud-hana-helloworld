@@ -3,6 +3,7 @@
  #cloud-hana-sample=HelloWorld
 
 ## Importing the "Hello World" source code to a Trial SAP HANA Instance with Eclipse
+*Authors: Stephan Weber, Sangeetha Jayakumar*
 
 This is based on the Step by Step tutorial at [help.hana.ondemand.com -> Creating an SAP HANA XS Application](https://help.hana.ondemand.com/help/frameset.htm?3762b229a4074fc59ac6a9ee7404f8c9.html).
 
@@ -50,7 +51,7 @@ Select root directory by browsing for the folder, e.g. `C:\hanaxsws\cloud-hana-h
 - Click `Finish` button.
 The project is listed in the Project Explorer.
 
-- Right click on the project name and rename the project name from {{PROJECT_NAME}} to `helloworld`. 
+- Right click on the project name and rename the project name from `{{PROJECT_NAME}}` to `helloworld`. 
 
 - change `model_access.hdbrole` file content from
 
