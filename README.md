@@ -76,7 +76,7 @@ The project is listed in the Project Explorer.
 - Log onto the [cockpit on the trial landscape](https://account.hanatrial.ondemand.com/cockpit) and choose `HANA XS Applications`.
 - In the HANA XS Applications table, click the `application URL` link to launch the application.
 
-A detailed description can be found at [Launching SAP HANA XS Applications](https://help.hana.ondemand.com/help/frameset.htm?46623ae2a51149df93bda2ed325892c6.html).
+A detailed description can be found at [Launching SAP HANA XS Applications](https://help.hana.ondemand.com/help/frameset.htm?0dd61c3e5d1d4d6cbea9aec94b7f4725.html).
 
 
 ## TODO
