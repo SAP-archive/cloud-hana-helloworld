@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge' />
+    <meta http-equiv='Content-Type' content='text/html;charset=UTF-8' />
+    <title>Hello UI5!</title>
+
+    <!-- Bootstrap SAP UI5 libraries -->
+    <script id='sap-ui-bootstrap' type='text/javascript' 
+      src='https://sapui5.hana.ondemand.com/resources/sap-ui-core.js'
+      data-sap-ui-theme='sap_bluecrystal'
+      data-sap-ui-libs='sap.ui.commons, sap.ui.table'>
+    </script>
+    
+    <script>
+    //Define simple Table with one column "DUMMY"
+    var table = new sap.ui.table.DataTable({
+    columns : [{ 
+                    label : "DUMMY",
+                    template : "DUMMY",
+                    sortProperty : "DUMMY"
+            }]
+    });
+
+	//Bind the table to the OData service
+    var tableModel = new sap.ui.model.odata.ODataModel("dummy.xsodata", true);
+    table.setModel(tableModel);
+    table.bindRows("/DUMMY");
+
+	//Define a panel that has a title and that contains some text and the table
+    var panel = new sap.ui.commons.Panel();
+    panel.setTitle(new sap.ui.core.Title({text: "Hello World!"}));
+    panel.addContent(new sap.ui.commons.TextView({text: "This is the response from my OData:"}));
+    panel.addContent(table);
+
+    //Place the panel in the body of the HTML document
+    panel.placeAt("content");
+  </script>
+
+  </head>
+  <body class='sapUiBody'>
+    <div id='content'></div>
+  </body>
+</html>

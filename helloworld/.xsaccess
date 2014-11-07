@@ -1,4 +1,4 @@
 {
-"exposed" : true,
-"default_file": "hello.xsjs"
+	"exposed" : true,
+	"authorization" : ["{{PACKAGE_NAME}}::helloworld_access"]
 }

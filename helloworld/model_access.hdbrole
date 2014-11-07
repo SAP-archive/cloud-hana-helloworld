@@ -1,3 +1,0 @@
-role {{PACKAGE_NAME}}::model_access {
-	application privilege: {{PACKAGE_NAME}}::Basic;
-}

@@ -1,0 +1,3 @@
+role {{PACKAGE_NAME}}::helloworld_user {
+	application privilege: {{PACKAGE_NAME}}::helloworld_access;
+}

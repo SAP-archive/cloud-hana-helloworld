@@ -1,3 +1,8 @@
 { "privileges" :
-       [ { "name" : "Basic", "description" : "Basic usage privilege" } ]
+	[
+		{ 
+			"name" : "helloworld_access", 
+			"description" : "Access to the helloworld application" 
+		} 
+	]
 }
