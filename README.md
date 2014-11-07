@@ -24,4 +24,4 @@ While the tutorials are optimized for the SAP HANA web-based Development Workben
 8. To import the application in your workspace, go to the `Repository` view, choose the `helloworld` package and open the context menu for the package with a right-click.
 9. Choose `Check Out and Import Projects...`. 
 
-Should you have questions or face problems then [SAP HANA Cloud Platform Developer Center](http://scn.sap.com/community/developer-center/cloud-platform/content?filterID=contentstatus%5Bpublished%5D~objecttype~objecttype%5Bthread%5D).
+Should you have any questions or face problems then the go for the [SAP HANA Cloud Platform Developer Center](http://scn.sap.com/community/developer-center/cloud-platform/content?filterID=contentstatus%5Bpublished%5D~objecttype~objecttype%5Bthread%5D).
