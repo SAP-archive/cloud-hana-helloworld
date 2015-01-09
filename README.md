@@ -7,14 +7,14 @@ This repository provides the full source code for the "Hello World" tutorials on
 
 These are the respective tutorials:
 
-- [Hello World! Develop your first SAP HANA Application using the SAP HANA Web-based Development Workbench](http://hcp.sap.com/developers/nat200_1_native_hana_hello_world_with_web_ide.html) 
-- [Hello Data! Access your first Data from a native SAP HANA Application using the SAP HANA Web-based Development Workbench](http://hcp.sap.com/developers/NAT200-2.html)
-- [Hello User! Authorize your first User to access a SAP HANA Application using the SAP HANA Web-based Development Workbench](http://hcp.sap.com/developers/nat200-3.html)
-- [Hello UI5! Develop your first UI5 Application on SAP HANA using the SAP HANA Web-based Development Workbench](http://hcp.sap.com/developers/nat200-4.html)
+- [Hello World! Develop your first SAP HANA Application using the SAP HANA Web-based Development Workbench](http://hcp.sap.com/developers/TutorialCatalog/nat200_1_native_hana_hello_world_with_web_ide.html) 
+- [Hello Data! Access your first Data from a native SAP HANA Application using the SAP HANA Web-based Development Workbench](http://hcp.sap.com/developers/TutorialCatalog/nat200_02_native_hana_hello_data_with_webide.html)
+- [Hello User! Authorize your first User to access a SAP HANA Application using the SAP HANA Web-based Development Workbench](http://hcp.sap.com/developers/TutorialCatalog/nat200_03_native_hana_hello_user_with_webide.html)
+- [Hello UI5! Develop your first UI5 Application on SAP HANA using the SAP HANA Web-based Development Workbench](http://hcp.sap.com/developers/TutorialCatalog/nat200_04_native_hana_hello_ui5_with_webide.html)
 
 While the tutorials are optimized for the SAP HANA web-based Development Workbench, you can run and import this code in the SAP HANA Studio following these steps:
 
-1. Setup a HANA Studio by following the tutorial "[Getting Started with SAP HANA Studio on SAP HANA Cloud Platform](http://hcp.sap.com/developers/nat201-1.html)".
+1. Setup a HANA Studio by following the tutorial "[Getting Started with SAP HANA Studio on SAP HANA Cloud Platform](http://hcp.sap.com/developers/TutorialCatalog/nat201_1_native_hana_setup_eclipse.html)".
 2. In your HANA Studio open `File` > `Import...`
 3. In the  `Import`-dialog select `SAP HANA Content`>`Sample Applications` and press `Next`. 
 4. In the `Import Sample Application - Sample Application`-dialog select the application `HelloWorld` and press `Next`.
