@@ -1,5 +1,9 @@
-#Hello World!
-#Source Code for the SAP HANA Cloud Platform "Hello World" Tutorials for SAP HANA
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
+
+# Important Notice
+This public repository is read-only and no longer maintained. For the latest sample code repositories, visit the [SAP Samples](https://github.com/SAP-samples) organization.
+
+## Source Code for the SAP HANA Cloud Platform "Hello World" Tutorials for SAP HANA
 
 *Author: Thomas Bieser, Britta Varwig (SAP SE)*
 
